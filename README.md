@@ -1,3 +1,6 @@
+<!-- node version -->
+v14.18.2
+
 <!--  Create react app with typescript -->
 npx create-react-app microsoft-sso-sample-react --template typescript
 
